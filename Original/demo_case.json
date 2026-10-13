@@ -1,0 +1,14 @@
+{
+  "age": 42,
+  "systolic_bp": 124,
+  "diastolic_bp": 79,
+  "heart_rate": 83,
+  "respiratory_rate": 18,
+  "temperature_c": 36.8,
+  "spo2": 97,
+  "pain_score": 3,
+  "gcs_total": 15,
+  "arrival_mode": "walk-in",
+  "mental_status_triage": "alert",
+  "observations": "Fictional patient, no personal identifiers"
+}

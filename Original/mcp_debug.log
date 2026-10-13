@@ -1,0 +1,8 @@
+2026-10-13 14:16:12 | server: starting
+2026-10-13 14:16:12 | predict: received
+2026-10-13 14:16:12 | predict: launching isolated worker
+2026-10-13 14:16:17 | predict: isolated worker returned
+2026-10-13 14:16:41 | server: starting
+2026-10-13 14:16:41 | predict: received
+2026-10-13 14:16:41 | predict: launching isolated worker
+2026-10-13 14:16:48 | predict: isolated worker returned

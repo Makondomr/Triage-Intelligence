@@ -1,0 +1,11 @@
+TRIAGE INTELLIGENCE - ASSESSMENT FIX
+
+1. Stop the old Streamlit process with Ctrl+C.
+2. Extract this folder alongside Kenya_Triage_AI_Integration (or your working project).
+3. Open PowerShell in this folder.
+4. Run: .\setup_from_existing.ps1
+5. Run: python -m streamlit run app.py
+
+This download contains all app source files, but not the trained model.
+The app now reports missing model and backend worker errors clearly.
+The assessment checks for contradictions between Alert consciousness and GCS below 15.
